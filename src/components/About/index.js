@@ -9,7 +9,7 @@ function About() {
                 src={coverImage}
                 className="my-2"
                 style={{ width: "100%" }}
-                alt="cover"
+                alt="cover image"
             />
         </section>
     );
