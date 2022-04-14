@@ -21,7 +21,7 @@ function Nav(props) {
     return (
         <header className="flex-row px-1">
             <h2>
-                <a href="/" data-testid="link">
+                <a href="/photo-port" data-testid="link">
                     <span role="img" aria-label="camera">
                         {" "}
                         📸
