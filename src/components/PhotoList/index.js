@@ -146,7 +146,6 @@ function PhotoList({ category }) {
                         onClick={() => toggleModal(image, i)}
                         key={image.name}
                     />
-                    // console.log(`../../assets/small/${category}/${i}.jpg`);
                 ))}
             </div>
         </div>
